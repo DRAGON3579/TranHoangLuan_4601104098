@@ -1,0 +1,11 @@
+D:\BAIGIUAKY\GAME_CACARO\bin\Debug\GAME_CACARO.exe.config
+D:\BAIGIUAKY\GAME_CACARO\bin\Debug\GAME_CACARO.exe
+D:\BAIGIUAKY\GAME_CACARO\bin\Debug\GAME_CACARO.pdb
+D:\BAIGIUAKY\GAME_CACARO\obj\Debug\GAME_CACARO.csproj.AssemblyReference.cache
+D:\BAIGIUAKY\GAME_CACARO\obj\Debug\GAME_CACARO.csproj.SuggestedBindingRedirects.cache
+D:\BAIGIUAKY\GAME_CACARO\obj\Debug\GAME_CACARO.frMain.resources
+D:\BAIGIUAKY\GAME_CACARO\obj\Debug\GAME_CACARO.Properties.Resources.resources
+D:\BAIGIUAKY\GAME_CACARO\obj\Debug\GAME_CACARO.csproj.GenerateResource.cache
+D:\BAIGIUAKY\GAME_CACARO\obj\Debug\GAME_CACARO.csproj.CoreCompileInputs.cache
+D:\BAIGIUAKY\GAME_CACARO\obj\Debug\GAME_CACARO.exe
+D:\BAIGIUAKY\GAME_CACARO\obj\Debug\GAME_CACARO.pdb
